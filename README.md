@@ -6,7 +6,7 @@
 4. [Dikooko](https://dikooko.netlify.app/)
 5. [Exalt Logistics](https://exalt-courier-company-v2-dev.netlify.app/)
 6. [AwesumEdge](https://awesumedge-dev.netlify.app/)
-7. [Smart Kiosk](https://wooz-kiosk.netlify.app/)
+
 
 
 ## Sub-Projects
